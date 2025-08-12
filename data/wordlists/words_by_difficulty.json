@@ -1,0 +1,372 @@
+{
+  "en": {
+    "easy": [
+      "philosophy", "magnificent", "extraordinary", "contemplation", "distinguished", 
+      "fundamental", "imagination", "experience", "perspective", "understanding",
+      "intelligence", "characteristic", "revolutionary", "fascinating", "sophisticated",
+      "contemporary", "knowledge", "impression", "expression", "beautiful"
+    ],
+    "medium": [
+      "serendipitous", "perspicacious", "quintessential", "multifaceted", "ineffable", 
+      "ubiquitous", "ephemeral", "mellifluous", "transcendental", "metamorphosis",
+      "juxtaposition", "paradigmatic", "introspective", "kaleidoscopic", "enigmatic",
+      "crescendo", "labyrinthine", "luminescent", "synchronicity", "resonance",
+      "crystalline", "harmonious", "ethereal", "silhouette", "cascading",
+      "constellation", "luminous", "pristine", "magnificent", "euphoria",
+      "nostalgic", "sanctuary", "tranquility", "harmonize", "breathtaking",
+      "captivating", "mesmerizing", "enchanting", "spellbinding", "alluring",
+      "picturesque", "panoramic", "scenic", "exquisite", "graceful",
+      "elegant", "refined", "delicate", "sublime", "radiant"
+    ],
+    "hard": [
+      "phantasmagorical", "perspicaciously", "sesquipedalian", "antediluvian", "pseudointellectual",
+      "discombobulated", "flibbertigibbet", "pusillanimous", "circumlocution", "grandiloquent",
+      "supercalifragilisticexpialidocious", "pneumonoultramicroscopicsilicovolcanoconios", "hippopotomonstrosesquippedaliophobia", "floccinaucinihilipilification", "electroencephalograph",
+      "psychopharmacology", "neuropsychological", "immunoelectrophoresis", "spectrophotometry", "crystallographic",
+      "phenomenological", "epistemological", "metaphysically", "existentialist", "transcendentalism",
+      "incomprehensibility", "unconstitutionally", "psychoneuroimmunology", "electrocardiogram", "deoxyribonucleic"
+    ]
+  },
+  "zh": {
+    "easy": [
+      "哲学", "美丽", "智慧", "自然", "音乐", "艺术", "文化", "历史", "科学", "技术",
+      "教育", "社会", "经济", "政治", "环境", "健康", "家庭", "朋友", "爱情", "希望"
+    ],
+    "medium": [
+      "思想体系", "心理状态", "精神世界", "文明进程", "创新思维", "文化传承", "价值观念", "人生哲理", "社会现象", "科技发展",
+      "艺术创作", "美学理论", "历史文献", "学术研究", "知识结构", "思维方式", "情感表达", "审美体验", "文学作品", "语言文字",
+      "传统文化", "现代科技", "国际交流", "多元文化", "跨文化", "全球化", "信息时代", "数字化", "智能化", "可持续发展",
+      "生态环境", "绿色发展", "和谐社会", "共同体", "命运共同体", "文化自信", "民族精神", "时代精神", "创新精神", "工匠精神",
+      "人文关怀", "社会责任", "道德修养", "精神追求", "理想信念", "价值追求", "人生意义", "生命价值", "幸福生活", "美好未来"
+    ],
+    "hard": [
+      "马克思主义哲学", "辩证唯物主义", "历史唯物主义", "认识论", "方法论", "世界观", "人生观", "价值观", "中华优秀传统文化", "社会主义核心价值观",
+      "中国特色社会主义", "新时代中国特色社会主义思想", "马克思主义中国化", "改革开放", "社会主义现代化", "中华民族伟大复兴", "构建人类命运共同体", "新发展理念", "高质量发展", "供给侧结构性改革",
+      "科学技术革命", "人工智能", "大数据", "云计算", "物联网", "区块链", "量子计算", "生物技术", "新能源", "新材料"
+    ]
+  },
+  "hi": {
+    "easy": [
+      "दर्शन", "सुंदरता", "ज्ञान", "प्रकृति", "संगीत", "कला", "संस्कृति", "इतिहास", "विज्ञान", "तकनीक",
+      "शिक्षा", "समाज", "अर्थव्यवस्था", "राजनीति", "पर्यावरण", "स्वास्थ्य", "परिवार", "मित्र", "प्रेम", "आशा"
+    ],
+    "medium": [
+      "आध्यात्मिकता", "मानसिकता", "चेतना", "सभ्यता", "नवाचार", "परंपरा", "मूल्यों", "जीवनशैली", "सामाजिक", "वैज्ञानिक",
+      "कलात्मक", "सौंदर्यशास्त्र", "ऐतिहासिक", "अकादमिक", "बौद्धिक", "भावनात्मक", "रचनात्मक", "सांस्कृतिक", "साहित्यिक", "भाषाविज्ञान",
+      "पारंपरिक", "आधुनिक", "अंतर्राष्ट्रीय", "बहुसांस्कृतिक", "वैश्विकीकरण", "सूचना", "डिजिटल", "बुद्धिमत्ता", "टिकाऊ", "पारिस्थितिकी",
+      "पर्यावरणीय", "हरित", "सामंजस्यपूर्ण", "समुदायिक", "सामूहिक", "आत्मविश्वास", "राष्ट्रीय", "समकालीन", "रचनात्मक", "कुशलता",
+      "मानवीय", "सामाजिक", "नैतिक", "आध्यात्मिक", "आदर्शवादी", "मूल्यवान", "जीवन", "अस्तित्व", "खुशी", "भविष्य"
+    ],
+    "hard": [
+      "मार्क्सवादी", "द्वंद्वात्मक", "ऐतिहासिक", "भौतिकवाद", "ज्ञानशास्त्र", "पद्धतिशास्त्र", "विश्वदृष्टि", "जीवनदर्शन", "मूल्यदर्शन", "सांस्कृतिक",
+      "समाजवादी", "आधुनिकीकरण", "पुनर्जागरण", "सुधारवाद", "राष्ट्रीयता", "मानवतावाद", "विकासशील", "गुणवत्तापूर्ण", "संरचनात्मक", "समुदायिक",
+      "वैज्ञानिक", "तकनीकी", "कृत्रिम", "बुद्धिमत्ता", "महाआंकड़े", "कंप्यूटिंग", "इंटरनेट", "ब्लॉकचेन", "क्वांटम", "जैविक"
+    ]
+  },
+  "es": {
+    "easy": [
+      "filosofía", "belleza", "sabiduría", "naturaleza", "música", "arte", "cultura", "historia", "ciencia", "tecnología",
+      "educación", "sociedad", "economía", "política", "ambiente", "salud", "familia", "amistad", "amor", "esperanza"
+    ],
+    "medium": [
+      "espiritualidad", "mentalidad", "conciencia", "civilización", "innovación", "tradición", "valores", "estilo", "fenómeno", "desarrollo",
+      "creatividad", "estética", "patrimonio", "investigación", "conocimiento", "pensamiento", "expresión", "experiencia", "literatura", "lingüística",
+      "tradicional", "moderno", "internacional", "multicultural", "globalización", "información", "digital", "inteligencia", "sostenible", "ecológico",
+      "ambiental", "verde", "armonioso", "comunitario", "colectivo", "confianza", "nacional", "contemporáneo", "creativo", "habilidad",
+      "humanitario", "responsabilidad", "moral", "espiritual", "idealista", "valioso", "existencia", "significado", "felicidad", "futuro"
+    ],
+    "hard": [
+      "marxista", "dialéctico", "materialismo", "epistemología", "metodología", "cosmovisión", "filosofía", "axiología", "patrimonio", "socialismo",
+      "modernización", "renacimiento", "reformismo", "nacionalismo", "humanismo", "desarrollo", "calidad", "estructural", "revolución", "tecnológica",
+      "inteligencia", "artificial", "macrodatos", "computación", "internet", "cadena", "cuántica", "biotecnología", "energía", "materiales"
+    ]
+  },
+  "fr": {
+    "easy": [
+      "philosophie", "beauté", "sagesse", "nature", "musique", "art", "culture", "histoire", "science", "technologie",
+      "éducation", "société", "économie", "politique", "environnement", "santé", "famille", "amitié", "amour", "espoir"
+    ],
+    "medium": [
+      "spiritualité", "mentalité", "conscience", "civilisation", "innovation", "tradition", "valeurs", "style", "phénomène", "développement",
+      "créativité", "esthétique", "patrimoine", "recherche", "connaissance", "pensée", "expression", "expérience", "littérature", "linguistique",
+      "traditionnel", "moderne", "international", "multiculturel", "mondialisation", "information", "numérique", "intelligence", "durable", "écologique",
+      "environnemental", "vert", "harmonieux", "communautaire", "collectif", "confiance", "national", "contemporain", "créatif", "compétence",
+      "humanitaire", "responsabilité", "moral", "spirituel", "idéaliste", "précieux", "existence", "signification", "bonheur", "avenir"
+    ],
+    "hard": [
+      "marxiste", "dialectique", "matérialisme", "épistémologie", "méthodologie", "vision", "philosophie", "axiologie", "patrimoine", "socialisme",
+      "modernisation", "renaissance", "réformisme", "nationalisme", "humanisme", "développement", "qualité", "structurel", "révolution", "technologique",
+      "intelligence", "artificielle", "mégadonnées", "informatique", "internet", "chaîne", "quantique", "biotechnologie", "énergie", "matériaux"
+    ]
+  },
+  "ar": {
+    "easy": [
+      "فلسفة", "جمال", "حكمة", "طبيعة", "موسيقى", "فن", "ثقافة", "تاريخ", "علم", "تكنولوجيا",
+      "تعليم", "مجتمع", "اقتصاد", "سياسة", "بيئة", "صحة", "عائلة", "صداقة", "حب", "أمل"
+    ],
+    "medium": [
+      "روحانية", "عقلية", "وعي", "حضارة", "ابتكار", "تقليد", "قيم", "أسلوب", "ظاهرة", "تنمية",
+      "إبداع", "جمالية", "تراث", "بحث", "معرفة", "فكر", "تعبير", "تجربة", "أدب", "لسانيات",
+      "تقليدي", "حديث", "دولي", "متعدد", "عولمة", "معلومات", "رقمي", "ذكاء", "مستدام", "بيئي",
+      "بيئي", "أخضر", "متناغم", "مجتمعي", "جماعي", "ثقة", "وطني", "معاصر", "إبداعي", "مهارة",
+      "إنساني", "مسؤولية", "أخلاقي", "روحي", "مثالي", "قيم", "وجود", "معنى", "سعادة", "مستقبل"
+    ],
+    "hard": [
+      "ماركسي", "جدلي", "مادية", "معرفة", "منهجية", "رؤية", "فلسفة", "قيمية", "تراث", "اشتراكية",
+      "تحديث", "نهضة", "إصلاحية", "قومية", "إنسانية", "تنمية", "جودة", "هيكلي", "ثورة", "تكنولوجية",
+      "ذكاء", "اصطناعي", "بيانات", "حاسوب", "إنترنت", "سلسلة", "كمي", "تقنية", "طاقة", "مواد"
+    ]
+  },
+  "bn": {
+    "easy": [
+      "দর্শন", "সৌন্দর্য", "জ্ঞান", "প্রকৃতি", "সংগীত", "শিল্প", "সংস্কৃতি", "ইতিহাস", "বিজ্ঞান", "প্রযুক্তি",
+      "শিক্ষা", "সমাজ", "অর্থনীতি", "রাজনীতি", "পরিবেশ", "স্বাস্থ্য", "পরিবার", "বন্ধুত্ব", "ভালোবাসা", "আশা"
+    ],
+    "medium": [
+      "আধ্যাত্মিকতা", "মানসিকতা", "চেতনা", "সভ্যতা", "উদ্ভাবন", "ঐতিহ্য", "মূল্যবোধ", "জীবনযাত্রা", "ঘটনা", "উন্নয়ন",
+      "সৃজনশীলতা", "নান্দনিকতা", "ঐতিহ্য", "গবেষণা", "জ্ঞান", "চিন্তাভাবনা", "অভিব্যক্তি", "অভিজ্ঞতা", "সাহিত্য", "ভাষাবিজ্ঞান",
+      "ঐতিহ্যবাহী", "আধুনিক", "আন্তর্জাতিক", "বহুসাংস্কৃতিক", "বিশ্বায়ন", "তথ্য", "ডিজিটাল", "বুদ্ধিমত্তা", "টেকসই", "পরিবেশগত",
+      "পরিবেশীয়", "সবুজ", "সুসামঞ্জস্যপূর্ণ", "সামুদায়িক", "সমষ্টিগত", "আস্থা", "জাতীয়", "সমসাময়িক", "সৃজনশীল", "দক্ষতা",
+      "মানবিক", "দায়বদ্ধতা", "নৈতিক", "আধ্যাত্মিক", "আদর্শবাদী", "মূল্যবান", "অস্তিত্ব", "অর্থ", "সুখ", "ভবিষ্যৎ"
+    ],
+    "hard": [
+      "মার্ক্সবাদী", "দ্বান্দ্বিক", "বস্তুবাদ", "জ্ঞানতত্ত্ব", "পদ্ধতিতত্ত্ব", "বিশ্বদৃষ্টিভঙ্গি", "দর্শন", "মূল্যতত্ত্ব", "ঐতিহ্য", "সমাজতন্ত্র",
+      "আধুনিকায়ন", "নবজাগরণ", "সংস্কারবাদ", "জাতীয়তাবাদ", "মানবতাবাদ", "উন্নয়ন", "গুণগত", "কাঠামোগত", "বিপ্লব", "প্রযুক্তিগত",
+      "কৃত্রিম", "বুদ্ধিমত্তা", "বৃহৎতথ্য", "গণনা", "ইন্টারনেট", "শৃঙ্খল", "কোয়ান্টাম", "জৈবপ্রযুক্তি", "শক্তি", "উপাদান"
+    ]
+  },
+  "pt": {
+    "easy": [
+      "filosofia", "beleza", "sabedoria", "natureza", "música", "arte", "cultura", "história", "ciência", "tecnologia",
+      "educação", "sociedade", "economia", "política", "ambiente", "saúde", "família", "amizade", "amor", "esperança"
+    ],
+    "medium": [
+      "espiritualidade", "mentalidade", "consciência", "civilização", "inovação", "tradição", "valores", "estilo", "fenômeno", "desenvolvimento",
+      "criatividade", "estética", "patrimônio", "pesquisa", "conhecimento", "pensamento", "expressão", "experiência", "literatura", "linguística",
+      "tradicional", "moderno", "internacional", "multicultural", "globalização", "informação", "digital", "inteligência", "sustentável", "ecológico",
+      "ambiental", "verde", "harmonioso", "comunitário", "coletivo", "confiança", "nacional", "contemporâneo", "criativo", "habilidade",
+      "humanitário", "responsabilidade", "moral", "espiritual", "idealista", "valioso", "existência", "significado", "felicidade", "futuro"
+    ],
+    "hard": [
+      "marxista", "dialético", "materialismo", "epistemologia", "metodologia", "cosmovisão", "filosofia", "axiologia", "patrimônio", "socialismo",
+      "modernização", "renascimento", "reformismo", "nacionalismo", "humanismo", "desenvolvimento", "qualidade", "estrutural", "revolução", "tecnológica",
+      "inteligência", "artificial", "megadados", "computação", "internet", "cadeia", "quântica", "biotecnologia", "energia", "materiais"
+    ]
+  },
+  "ru": {
+    "easy": [
+      "философия", "красота", "мудрость", "природа", "музыка", "искусство", "культура", "история", "наука", "технология",
+      "образование", "общество", "экономика", "политика", "среда", "здоровье", "семья", "дружба", "любовь", "надежда"
+    ],
+    "medium": [
+      "духовность", "ментальность", "сознание", "цивилизация", "инновация", "традиция", "ценности", "стиль", "явление", "развитие",
+      "творчество", "эстетика", "наследие", "исследование", "знание", "мышление", "выражение", "опыт", "литература", "лингвистика",
+      "традиционный", "современный", "международный", "мультикультурный", "глобализация", "информация", "цифровой", "интеллект", "устойчивый", "экологический",
+      "экологический", "зеленый", "гармоничный", "общественный", "коллективный", "доверие", "национальный", "современный", "творческий", "навык",
+      "гуманитарный", "ответственность", "моральный", "духовный", "идеалистический", "ценный", "существование", "значение", "счастье", "будущее"
+    ],
+    "hard": [
+      "марксистский", "диалектический", "материализм", "эпистемология", "методология", "мировоззрение", "философия", "аксиология", "наследие", "социализм",
+      "модернизация", "возрождение", "реформизм", "национализм", "гуманизм", "развитие", "качество", "структурный", "революция", "технологический",
+      "искусственный", "интеллект", "большие", "вычисления", "интернет", "цепочка", "квантовый", "биотехнология", "энергия", "материалы"
+    ]
+  },
+  "ur": {
+    "easy": [
+      "فلسفہ", "خوبصورتی", "حکمت", "فطرت", "موسیقی", "فن", "ثقافت", "تاریخ", "سائنس", "ٹیکنالوجی",
+      "تعلیم", "معاشرہ", "معیشت", "سیاست", "ماحولیات", "صحت", "خاندان", "دوستی", "محبت", "امید"
+    ],
+    "medium": [
+      "روحانیت", "ذہنیت", "شعور", "تہذیب", "اختراع", "روایت", "اقدار", "طرز", "رجحان", "ترقی",
+      "تخلیق", "جمالیات", "ورثہ", "تحقیق", "علم", "فکر", "اظہار", "تجربہ", "ادب", "لسانیات",
+      "روایتی", "جدید", "بین الاقوامی", "کثیر الثقافتی", "عالمگیریت", "معلومات", "ڈیجیٹل", "ذہانت", "پائیدار", "ماحولیاتی",
+      "ماحولیاتی", "سبز", "ہم آہنگ", "اجتماعی", "اجتماعی", "اعتماد", "قومی", "عصری", "تخلیقی", "مہارت",
+      "انسانی", "ذمہ داری", "اخلاقی", "روحانی", "مثالی", "قیمتی", "وجود", "معنی", "خوشی", "مستقبل"
+    ],
+    "hard": [
+      "مارکسی", "جدلیاتی", "مادیت", "علمیات", "طریقہ کار", "نظریہ", "فلسفہ", "قدریات", "ورثہ", "اشتراکیت",
+      "جدیدیت", "نشاۃ ثانیہ", "اصلاحیت", "قومیت", "انسانیت", "ترقی", "معیار", "ڈھانچہ", "انقلاب", "تکنیکی",
+      "مصنوعی", "ذہانت", "کثیر", "حساب", "انٹرنیٹ", "سلسلہ", "کوانٹم", "حیاتیات", "توانائی", "مواد"
+    ]
+  },
+  "id": {
+    "easy": [
+      "filosofi", "keindahan", "kebijaksanaan", "alam", "musik", "seni", "budaya", "sejarah", "ilmu", "teknologi",
+      "pendidikan", "masyarakat", "ekonomi", "politik", "lingkungan", "kesehatan", "keluarga", "persahabatan", "cinta", "harapan"
+    ],
+    "medium": [
+      "spiritualitas", "mentalitas", "kesadaran", "peradaban", "inovasi", "tradisi", "nilai", "gaya", "fenomena", "perkembangan",
+      "kreativitas", "estetika", "warisan", "penelitian", "pengetahuan", "pemikiran", "ekspresi", "pengalaman", "sastra", "linguistik",
+      "tradisional", "modern", "internasional", "multikultural", "globalisasi", "informasi", "digital", "kecerdasan", "berkelanjutan", "ekologis",
+      "lingkungan", "hijau", "harmonis", "komunitas", "kolektif", "kepercayaan", "nasional", "kontemporer", "kreatif", "keterampilan",
+      "kemanusiaan", "tanggung jawab", "moral", "spiritual", "idealis", "berharga", "eksistensi", "makna", "kebahagiaan", "masa depan"
+    ],
+    "hard": [
+      "marxis", "dialektis", "materialisme", "epistemologi", "metodologi", "pandangan dunia", "filosofi", "aksiologi", "warisan", "sosialisme",
+      "modernisasi", "renaissance", "reformisme", "nasionalisme", "humanisme", "pembangunan", "kualitas", "struktural", "revolusi", "teknologi",
+      "kecerdasan", "buatan", "data besar", "komputasi", "internet", "rantai", "kuantum", "bioteknologi", "energi", "material"
+    ]
+  },
+  "de": {
+    "easy": [
+      "Philosophie", "Schönheit", "Weisheit", "Natur", "Musik", "Kunst", "Kultur", "Geschichte", "Wissenschaft", "Technologie",
+      "Bildung", "Gesellschaft", "Wirtschaft", "Politik", "Umwelt", "Gesundheit", "Familie", "Freundschaft", "Liebe", "Hoffnung"
+    ],
+    "medium": [
+      "Spiritualität", "Mentalität", "Bewusstsein", "Zivilisation", "Innovation", "Tradition", "Werte", "Stil", "Phänomen", "Entwicklung",
+      "Kreativität", "Ästhetik", "Erbe", "Forschung", "Wissen", "Denken", "Ausdruck", "Erfahrung", "Literatur", "Linguistik",
+      "traditionell", "modern", "international", "multikulturell", "Globalisierung", "Information", "digital", "Intelligenz", "nachhaltig", "ökologisch",
+      "umweltfreundlich", "grün", "harmonisch", "gemeinschaftlich", "kollektiv", "Vertrauen", "national", "zeitgenössisch", "kreativ", "Fähigkeit",
+      "humanitär", "Verantwortung", "moralisch", "spirituell", "idealistisch", "wertvoll", "Existenz", "Bedeutung", "Glück", "Zukunft"
+    ],
+    "hard": [
+      "marxistisch", "dialektisch", "Materialismus", "Erkenntnistheorie", "Methodologie", "Weltanschauung", "Philosophie", "Axiologie", "Erbe", "Sozialismus",
+      "Modernisierung", "Renaissance", "Reformismus", "Nationalismus", "Humanismus", "Entwicklung", "Qualität", "strukturell", "Revolution", "technologisch",
+      "künstliche", "Intelligenz", "große", "Daten", "Internet", "Kette", "Quantencomputing", "Biotechnologie", "Energie", "Materialien"
+    ]
+  },
+  "ja": {
+    "easy": [
+      "哲学", "美しさ", "知恵", "自然", "音楽", "芸術", "文化", "歴史", "科学", "技術",
+      "教育", "社会", "経済", "政治", "環境", "健康", "家族", "友情", "愛", "希望"
+    ],
+    "medium": [
+      "精神性", "精神状態", "意識", "文明", "革新", "伝統", "価値観", "スタイル", "現象", "発展",
+      "創造性", "美学", "遺産", "研究", "知識", "思考", "表現", "経験", "文学", "言語学",
+      "伝統的", "現代", "国際的", "多文化", "グローバル化", "情報", "デジタル", "知能", "持続可能", "生態学",
+      "環境", "緑", "調和", "コミュニティ", "集合的", "信頼", "国家", "現代", "創造的", "技能",
+      "人道的", "責任", "道徳的", "精神的", "理想主義", "価値ある", "存在", "意味", "幸福", "未来"
+    ],
+    "hard": [
+      "マルクス主義", "弁証法的", "唯物論", "認識論", "方法論", "世界観", "哲学", "価値論", "遺産", "社会主義",
+      "近代化", "ルネサンス", "改革主義", "民族主義", "人文主義", "発展", "品質", "構造的", "革命", "技術的",
+      "人工", "知能", "ビッグデータ", "コンピューティング", "インターネット", "チェーン", "量子", "バイオテクノロジー", "エネルギー", "材料"
+    ]
+  },
+  "tr": {
+    "easy": [
+      "felsefe", "güzellik", "bilgelik", "doğa", "müzik", "sanat", "kültür", "tarih", "bilim", "teknoloji",
+      "eğitim", "toplum", "ekonomi", "siyaset", "çevre", "sağlık", "aile", "dostluk", "aşk", "umut"
+    ],
+    "medium": [
+      "maneviyat", "zihniyet", "bilinç", "medeniyet", "yenilik", "gelenek", "değerler", "stil", "olgu", "gelişim",
+      "yaratıcılık", "estetik", "miras", "araştırma", "bilgi", "düşünce", "ifade", "deneyim", "edebiyat", "dilbilim",
+      "geleneksel", "modern", "uluslararası", "çokkültürlü", "küreselleşme", "bilgi", "dijital", "zeka", "sürdürülebilir", "ekolojik",
+      "çevresel", "yeşil", "uyumlu", "toplumsal", "kolektif", "güven", "ulusal", "çağdaş", "yaratıcı", "beceri",
+      "insani", "sorumluluk", "ahlaki", "manevi", "idealist", "değerli", "varoluş", "anlam", "mutluluk", "gelecek"
+    ],
+    "hard": [
+      "marksist", "diyalektik", "materyalizm", "epistemoloji", "metodoloji", "dünya görüşü", "felsefe", "aksiyoloji", "miras", "sosyalizm",
+      "modernleşme", "rönesans", "reformizm", "milliyetçilik", "hümanizm", "kalkınma", "kalite", "yapısal", "devrim", "teknolojik",
+      "yapay", "zeka", "büyük", "veri", "internet", "zincir", "kuantum", "biyoteknoloji", "enerji", "malzemeler"
+    ]
+  },
+  "ko": {
+    "easy": [
+      "철학", "아름다움", "지혜", "자연", "음악", "예술", "문화", "역사", "과학", "기술",
+      "교육", "사회", "경제", "정치", "환경", "건강", "가족", "우정", "사랑", "희망"
+    ],
+    "medium": [
+      "영성", "정신력", "의식", "문명", "혁신", "전통", "가치관", "스타일", "현상", "발전",
+      "창조성", "미학", "유산", "연구", "지식", "사고", "표현", "경험", "문학", "언어학",
+      "전통적", "현대", "국제적", "다문화", "세계화", "정보", "디지털", "지능", "지속가능", "생태학",
+      "환경", "녹색", "조화로운", "공동체", "집단적", "신뢰", "국가", "현대", "창조적", "기술",
+      "인도주의", "책임", "도덕적", "영적", "이상주의", "가치있는", "존재", "의미", "행복", "미래"
+    ],
+    "hard": [
+      "마르크스주의", "변증법적", "유물론", "인식론", "방법론", "세계관", "철학", "가치론", "유산", "사회주의",
+      "근대화", "르네상스", "개혁주의", "민족주의", "인본주의", "발전", "품질", "구조적", "혁명", "기술적",
+      "인공", "지능", "빅데이터", "컴퓨팅", "인터넷", "체인", "양자", "생명공학", "에너지", "재료"
+    ]
+  },
+  "it": {
+    "easy": [
+      "filosofia", "bellezza", "saggezza", "natura", "musica", "arte", "cultura", "storia", "scienza", "tecnologia",
+      "educazione", "società", "economia", "politica", "ambiente", "salute", "famiglia", "amicizia", "amore", "speranza"
+    ],
+    "medium": [
+      "spiritualità", "mentalità", "coscienza", "civiltà", "innovazione", "tradizione", "valori", "stile", "fenomeno", "sviluppo",
+      "creatività", "estetica", "patrimonio", "ricerca", "conoscenza", "pensiero", "espressione", "esperienza", "letteratura", "linguistica",
+      "tradizionale", "moderno", "internazionale", "multiculturale", "globalizzazione", "informazione", "digitale", "intelligenza", "sostenibile", "ecologico",
+      "ambientale", "verde", "armonioso", "comunitario", "collettivo", "fiducia", "nazionale", "contemporaneo", "creativo", "abilità",
+      "umanitario", "responsabilità", "morale", "spirituale", "idealista", "prezioso", "esistenza", "significato", "felicità", "futuro"
+    ],
+    "hard": [
+      "marxista", "dialettico", "materialismo", "epistemologia", "metodologia", "visione del mondo", "filosofia", "assiologia", "patrimonio", "socialismo",
+      "modernizzazione", "rinascimento", "riformismo", "nazionalismo", "umanesimo", "sviluppo", "qualità", "strutturale", "rivoluzione", "tecnologico",
+      "intelligenza", "artificiale", "grandi", "dati", "internet", "catena", "quantistico", "biotecnologia", "energia", "materiali"
+    ]
+  },
+  "th": {
+    "easy": [
+      "ปรัชญา", "ความงาม", "ปัญญา", "ธรรมชาติ", "ดนตรี", "ศิลปะ", "วัฒนธรรม", "ประวัติศาสตร์", "วิทยาศาสตร์", "เทคโนโลยี",
+      "การศึกษา", "สังคม", "เศรษฐกิจ", "การเมือง", "สิ่งแวดล้อม", "สุขภาพ", "ครอบครัว", "มิตรภาพ", "ความรัก", "ความหวัง"
+    ],
+    "medium": [
+      "จิตวิญญาณ", "จิตใจ", "จิตสำนึก", "อารยธรรม", "นวัตกรรม", "ประเพณี", "คุณค่า", "รูปแบบ", "ปรากฏการณ์", "การพัฒนา",
+      "ความคิดสร้างสรรค์", "สุนทรียศาสตร์", "มรดก", "การวิจัย", "ความรู้", "ความคิด", "การแสดงออก", "ประสบการณ์", "วรรณกรรม", "ภาษาศาสตร์",
+      "ดั้งเดิม", "ทันสมัย", "นานาชาติ", "พหุวัฒนธรรม", "โลกาภิวัตน์", "ข้อมูล", "ดิจิทัล", "ปัญญา", "ยั่งยืน", "นิเวศวิทยา",
+      "สิ่งแวดล้อม", "เขียว", "กลมกลืน", "ชุมชน", "ส่วนรวม", "ความไว้วางใจ", "ชาติ", "ร่วมสมัย", "สร้างสรรค์", "ทักษะ",
+      "มนุษยธรรม", "ความรับผิดชอบ", "ศีลธรรม", "จิตวิญญาณ", "อุดมคติ", "มีค่า", "การดำรงอยู่", "ความหมาย", "ความสุข", "อนาคต"
+    ],
+    "hard": [
+      "มาร์กซิสต์", "วิภาษวิธี", "วัตถุนิยม", "ญาณวิทยา", "วิธีวิทยา", "โลกทัศน์", "ปรัชญา", "มูลค่าวิทยา", "มรดก", "สังคมนิยม",
+      "การทำให้ทันสมัย", "การฟื้นฟู", "การปฏิรูป", "ชาตินิยม", "มนุษยนิยม", "การพัฒนา", "คุณภาพ", "โครงสร้าง", "การปฏิวัติ", "เทคโนโลยี",
+      "ปัญญา", "ประดิษฐ์", "ข้อมูลขนาดใหญ่", "การคำนวณ", "อินเทอร์เน็ต", "โซ่", "ควอนตัม", "เทคโนโลยีชีวภาพ", "พลังงาน", "วัสดุ"
+    ]
+  },
+  "vi": {
+    "easy": [
+      "triết học", "vẻ đẹp", "trí tuệ", "tự nhiên", "âm nhạc", "nghệ thuật", "văn hóa", "lịch sử", "khoa học", "công nghệ",
+      "giáo dục", "xã hội", "kinh tế", "chính trị", "môi trường", "sức khỏe", "gia đình", "tình bạn", "tình yêu", "hy vọng"
+    ],
+    "medium": [
+      "tâm linh", "tâm lý", "ý thức", "văn minh", "đổi mới", "truyền thống", "giá trị", "phong cách", "hiện tượng", "phát triển",
+      "sáng tạo", "thẩm mỹ", "di sản", "nghiên cứu", "tri thức", "tư duy", "biểu đạt", "kinh nghiệm", "văn học", "ngôn ngữ học",
+      "truyền thống", "hiện đại", "quốc tế", "đa văn hóa", "toàn cầu hóa", "thông tin", "số hóa", "trí tuệ", "bền vững", "sinh thái",
+      "môi trường", "xanh", "hài hòa", "cộng đồng", "tập thể", "tin tưởng", "quốc gia", "đương đại", "sáng tạo", "kỹ năng",
+      "nhân đạo", "trách nhiệm", "đạo đức", "tâm linh", "lý tưởng", "quý giá", "tồn tại", "ý nghĩa", "hạnh phúc", "tương lai"
+    ],
+    "hard": [
+      "chủ nghĩa Mác", "biện chứng", "chủ nghĩa duy vật", "nhận thức luận", "phương pháp luận", "thế giới quan", "triết học", "giá trị luận", "di sản", "chủ nghĩa xã hội",
+      "hiện đại hóa", "phục hưng", "chủ nghĩa cải cách", "chủ nghĩa dân tộc", "chủ nghĩa nhân văn", "phát triển", "chất lượng", "cấu trúc", "cách mạng", "công nghệ",
+      "trí tuệ", "nhân tạo", "dữ liệu lớn", "tính toán", "internet", "chuỗi", "lượng tử", "công nghệ sinh học", "năng lượng", "vật liệu"
+    ]
+  },
+  "pl": {
+    "easy": [
+      "filozofia", "piękno", "mądrość", "natura", "muzyka", "sztuka", "kultura", "historia", "nauka", "technologia",
+      "edukacja", "społeczeństwo", "ekonomia", "polityka", "środowisko", "zdrowie", "rodzina", "przyjaźń", "miłość", "nadzieja"
+    ],
+    "medium": [
+      "duchowość", "mentalność", "świadomość", "cywilizacja", "innowacja", "tradycja", "wartości", "styl", "zjawisko", "rozwój",
+      "kreatywność", "estetyka", "dziedzictwo", "badania", "wiedza", "myślenie", "wyrażenie", "doświadczenie", "literatura", "językoznawstwo",
+      "tradycyjny", "nowoczesny", "międzynarodowy", "wielokulturowy", "globalizacja", "informacja", "cyfrowy", "inteligencja", "zrównoważony", "ekologiczny",
+      "środowiskowy", "zielony", "harmonijny", "społeczny", "zbiorowy", "zaufanie", "narodowy", "współczesny", "twórczy", "umiejętność",
+      "humanitarny", "odpowiedzialność", "moralny", "duchowy", "idealistyczny", "cenny", "istnienie", "znaczenie", "szczęście", "przyszłość"
+    ],
+    "hard": [
+      "marksistowski", "dialektyczny", "materializm", "epistemologia", "metodologia", "światopogląd", "filozofia", "aksjologia", "dziedzictwo", "socjalizm",
+      "modernizacja", "renesans", "reformizm", "nacjonalizm", "humanizm", "rozwój", "jakość", "strukturalny", "rewolucja", "technologiczny",
+      "sztuczna", "inteligencja", "duże", "dane", "internet", "łańcuch", "kwantowy", "biotechnologia", "energia", "materiały"
+    ]
+  },
+  "nl": {
+    "easy": [
+      "filosofie", "schoonheid", "wijsheid", "natuur", "muziek", "kunst", "cultuur", "geschiedenis", "wetenschap", "technologie",
+      "onderwijs", "samenleving", "economie", "politiek", "milieu", "gezondheid", "familie", "vriendschap", "liefde", "hoop"
+    ],
+    "medium": [
+      "spiritualiteit", "mentaliteit", "bewustzijn", "beschaving", "innovatie", "traditie", "waarden", "stijl", "fenomeen", "ontwikkeling",
+      "creativiteit", "esthetiek", "erfgoed", "onderzoek", "kennis", "denken", "uitdrukking", "ervaring", "literatuur", "taalkunde",
+      "traditioneel", "modern", "internationaal", "multicultureel", "globalisering", "informatie", "digitaal", "intelligentie", "duurzaam", "ecologisch",
+      "milieu", "groen", "harmonieus", "gemeenschappelijk", "collectief", "vertrouwen", "nationaal", "hedendaags", "creatief", "vaardigheid",
+      "humanitair", "verantwoordelijkheid", "moreel", "spiritueel", "idealistisch", "waardevol", "bestaan", "betekenis", "geluk", "toekomst"
+    ],
+    "hard": [
+      "marxistisch", "dialectisch", "materialisme", "kennistheorie", "methodologie", "wereldbeeld", "filosofie", "waardeleer", "erfgoed", "socialisme",
+      "modernisering", "renaissance", "hervormingsgezindheid", "nationalisme", "humanisme", "ontwikkeling", "kwaliteit", "structureel", "revolutie", "technologisch",
+      "kunstmatige", "intelligentie", "grote", "gegevens", "internet", "keten", "kwantum", "biotechnologie", "energie", "materialen"
+    ]
+  }
+}
